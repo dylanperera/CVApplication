@@ -1,0 +1,9 @@
+.jumbotron{
+    background-color: rgb(51,51,51);
+    text-align: center;
+  }
+  
+  h1{
+    margin: 0;
+    color: rgb(238,238,238);
+  }

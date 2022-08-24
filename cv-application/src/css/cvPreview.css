@@ -1,0 +1,48 @@
+.cvPreview {
+  background-color: rgb(238, 238, 238);
+  box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+  border-radius: 0;
+  padding: 0;
+}
+
+.col-3{
+    background-color: rgb(221,221,221);
+}
+
+.experience,
+.education {
+  margin-bottom: 30px;
+}
+
+.edit-and-view {
+  margin-bottom: 50px;
+}
+
+.userInfo {
+  background-color: rgb(20, 62, 114);
+  color: white;
+  padding: 15px 10px 15px 10px;
+}
+
+#nameInfo {
+  margin-bottom: 10px;
+}
+
+h3 {
+  display: inline;
+}
+
+h6 {
+  border-bottom: 1px solid lightgray;
+}
+.cvInnerContent {
+  margin: 20px;
+}
+
+ul{
+    margin-block-start: 0;
+}
+
+li{
+    list-style: none;
+}
