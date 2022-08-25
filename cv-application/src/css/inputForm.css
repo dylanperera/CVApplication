@@ -2,7 +2,7 @@
     background-color: rgb(238, 238, 238);
     box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
     border-radius: 5px;
-    padding: 2rem;
+    padding: 2rem 2rem 0px 2rem;
 }
 
 .experience, .education{
@@ -11,4 +11,9 @@
 
 .edit-and-view{
     margin-bottom: 50px;
+}
+
+.btn-example{
+    background-color: orange;
+    color: white
 }
