@@ -5,7 +5,7 @@ When I was getting to apply for internships last year, the most difficult proces
 
 I have created an implementation of a CV creator based on a template that I use for my own CV. This template has clear headings, and simple yet readable sections.
 
-##**Features**
+## **Features**
 The app features a Form, and a sticky template element. The template will automatically fill up whenever information is entered into the form. The form features a few Sub Sections:
 
 General Information (Name, Last name, Title, Address, Email, Phone Number, and Linkedin)
