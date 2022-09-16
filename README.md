@@ -25,7 +25,7 @@ Will fill the template with an example for the user, on the click of a button
 Reset Example Feature:
 Clears the sticky template, which in turn will clear the CV template, on the click of a button
 
-**Future implementations**
+## **Future implementations**
 I would implement these few changes to improve the application:
 
 1. Further Form Validation
