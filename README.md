@@ -1,5 +1,5 @@
 # CV Builder Application
-[Live Demo](https://dylanperera.github.io/CVApplication/) :point_left:
+#### [Live Demo](https://dylanperera.github.io/CVApplication/) :point_left:
 **Motivation**
 When I was getting to apply for internships last year, the most difficult process for me was creating the perfect CV that suits me. After numerous iterations I found one that I found to be the one for me. Althoug the structure of CVs should be dependent on the nature of the applicants' career choices, the CV should still be simple, clear and readable.
 
